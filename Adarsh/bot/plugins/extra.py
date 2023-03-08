@@ -17,12 +17,12 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Made By [GreyMatter's Bot](https://t.me/GreyMatter_Bots)",
+                    text="I am Made By [Bot](https://t.me/asifalex)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Owner💻", url=f"https://t.me/GreyMatter_Owner")
+                                InlineKeyboardButton("Owner💻", url=f"https://t.me/asifalex")
                             ]
                         ]
                     ),
@@ -42,7 +42,7 @@ async def follow_user(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Subscribe ❤️", url=f"https://youtube.com/@GreyMattersYT")
+                                InlineKeyboardButton("Subscribe ❤️", url=f"https://t.me/lightningbackup")
                             ]
                         ]
                     ),

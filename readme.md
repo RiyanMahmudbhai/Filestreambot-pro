@@ -8,9 +8,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://t.me/asifalex/pro/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    <a href="https://t.me/asifalex/filestreambot-pro/issues">Request Feature</a>
   </p>
 
 
@@ -166,5 +166,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me](https://t.me/asifalex)
 - Everyone In This Journey !
